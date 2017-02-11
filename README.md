@@ -5,9 +5,7 @@
 **Explanation for the permissions:**
 
 android.permission.INTERNET
-
 android.permission.READ_PHONE_STATE
-
 android.premission.ACCESS_NETWORK_STATE
 
 
