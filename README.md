@@ -12,7 +12,6 @@ android.premission.ACCESS_NETWORK_STATE
 Admob by Google company need read phone state and network state to display and improve there Ads quality. 
 
 android.permission.READ_CONTACTS
-
 android.permission.WRITE_CONTACTS
 
 
@@ -21,7 +20,6 @@ Ringtone Maker will not collect your contact information.
 
 
 android.permission.WRITE_SETTINGS
-
 android.permission.WRITE_EXTERNAL_STORAGE
 
 
